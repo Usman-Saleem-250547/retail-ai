@@ -6,13 +6,6 @@ echo "║         Retail AI — Week 1 Setup Complete ✓               ║"
 echo "╚════════════════════════════════════════════════════════════╝"
 echo ""
 
-echo "📊 YOUR SYSTEM:"
-echo "  CPU: Intel i5-3317U (4 cores, 2013)"
-echo "  RAM: 5.1 GB (tight, expect 5-10 FPS)"
-echo "  GPU: Intel HD 4000 (CPU inference only)"
-echo "  Disk: 50 GB free ✓"
-echo ""
-
 echo "📁 FILES CREATED:"
 echo "  ✓ tracker.py .......... Main perception engine (zone detection)"
 echo "  ✓ query.py ............ Database insights tool"
