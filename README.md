@@ -1,18 +1,7 @@
 # Retail AI — Week 1 Setup Complete ✓
 
-## System Evaluation
-**Your Laptop:**
-- CPU: Intel i5-3317U (4 cores, 2013 era) — **older but capable**
-- RAM: 5.1 GB total, ~4 GB in use
-- GPU: Intel HD Graphics 4000 (integrated, no CUDA)
-- Disk: 50 GB free
-
 **Performance Implications:**
-- YOLOv8n runs on **CPU only** → expect 5–10 FPS on your laptop
-- 640×480 resolution is correct (balances accuracy vs. speed)
-- Frame buffer size reduced to 1 to avoid lag (grabs freshest frame)
-- For production: recommend Jetson Nano (USD $99) or used desktop with NVIDIA GPU
-
+- YOLOv8n runs on **CPU only** 
 ---
 
 ## Files Created
